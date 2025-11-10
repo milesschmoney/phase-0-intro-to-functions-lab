@@ -1,0 +1,14 @@
+{
+  "name": "js-functions-lab",
+  "version": "1.0.0",
+  "description": "Introduction to Functions in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
